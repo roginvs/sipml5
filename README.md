@@ -5,7 +5,7 @@
 - Indication for "Call completed elsewhere". Just simple lookup for such reason. This is useful in order to not to show such calls as missed
 
 # Online test
-Online demo is available [here](http://roginvs.github.io/sipml5/call.htm)
+Online demo is available [here](https://roginvs.github.io/sipml5/call.htm)
 
 # Download
 Download JS API: [SIPml-api.js](https://raw.githubusercontent.com/roginvs/sipml5/master/release/SIPml-api.js)
